@@ -1,5 +1,5 @@
 {
-  "name": "react-native-cardview",
+  "name": "rn-cardview",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,8 +17,8 @@
     "cardview"
   ],
   "author": {
-    "name": "hjq",
-    "email": "hjq@mail.com"
+    "name": "JQHxx",
+    "email": "122011059@qq.com"
   },
   "license": "MIT",
   "repository": {
